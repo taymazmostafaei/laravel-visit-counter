@@ -1,0 +1,17 @@
+{
+    "name": "taymaz/visitcounter",
+    "description": "laravel package to count pages and posts visits",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taymaz\\Visitcounter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "taymaz",
+            "email": "taymaz@resup.ir"
+        }
+    ],
+    "require": {}
+}
