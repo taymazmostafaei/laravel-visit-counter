@@ -39,7 +39,7 @@ it can handle uri passed parameters.
 
 have easy acess for route visits in your controller.
 ```php
-    public function hello(Request $request){
-        $request->input('views'); //465
-    }
+public function hello(Request $request){
+    $request->input('views'); //465
+}
 ```
