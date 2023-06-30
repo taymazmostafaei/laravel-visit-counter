@@ -3,7 +3,7 @@
 [![Latest Unstable Version](http://poser.pugx.org/taymaz/laravel-visitcounter/v/unstable)](https://packagist.org/packages/taymaz/laravel-visitcounter) [![License](http://poser.pugx.org/taymaz/laravel-visitcounter/license)](https://packagist.org/packages/taymaz/laravel-visitcounter)
 [![PHP Version Require](http://poser.pugx.org/taymaz/laravel-visitcounter/require/php)](https://packagist.org/packages/taymaz/laravel-visitcounter)
 
-<img alt="screenshot" src="https://github.com/taymazmostafaei/laravel-visit-counter/blob/main/Untitled.png?raw=true"/>
+<img alt="screenshot" src="https://github.com/taymazmostafaei/laravel-visit-counter/blob/main/Untitled.png?raw=true" alt="laravel view count"/>
 
 # laravel-visitcounter
 laravel package to count pages and posts visits
